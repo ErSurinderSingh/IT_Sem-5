@@ -10,4 +10,4 @@ Server: 1. Apache TomEE for Prac# 8 & 9
         
 mysql Java connector
 
-Apache TomEE is also added to the repository. You just need to download it & add it to ur IDE. If it asks for ID & Password at the time of executing the practical enter ID & password as admin
+
