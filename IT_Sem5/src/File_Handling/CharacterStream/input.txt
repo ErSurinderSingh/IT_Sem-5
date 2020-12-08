@@ -1,0 +1,3 @@
+FileInputStream is useful to read data from a file in the form of sequence of bytes.
+FileInputStream is meant for reading streams of raw bytes such as image data.
+For reading streams of characters, consider using FileReader.
